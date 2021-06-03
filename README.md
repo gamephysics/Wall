@@ -6,6 +6,8 @@ Transition Tile 문제의 가장 간단한 예제인 연맹성벽, 펜스등에 
 
 연맹 성벽 표현에 공용으로 사용하고 있습니다.
 
+<img src="WALL_0110.png" width="40%" height="30%"></img>
+
 ## Youtube
 
 https://youtu.be/N5AcXsusSOc
