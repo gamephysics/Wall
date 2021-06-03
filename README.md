@@ -6,7 +6,7 @@ Transition Tile 문제의 가장 간단한 예제인 연맹성벽, 펜스등에 
 
 연맹 성벽 표현에 공용으로 사용하고 있습니다.
 
-<img src="./WALL_0110.PNG" width="40%" height="30%"></img>
+<img src="./WALL_0110.PNG" width="20%" height="20%"></img>
 
 ## Youtube
 
@@ -16,4 +16,4 @@ https://youtu.be/N5AcXsusSOc
 
 실제 사용중인 연맹성벽의 모든 경우의 수를 도식화 하였습니다.
 
-<img src="./WALL_TOTAL.PNG" width="40%" height="30%"></img>
+<img src="./WALL_TOTAL.PNG" width="40%" height="40%"></img>
