@@ -15,3 +15,5 @@ https://youtu.be/N5AcXsusSOc
 ## Excel
 
 실제 사용중인 연맹성벽의 모든 경우의 수를 도식화 하였습니다.
+
+<img src="./WALL_TOTAL.PNG" width="40%" height="30%"></img>
