@@ -10,7 +10,7 @@ Transition Tile 문제의 가장 간단한 예제인 연맹성벽, 펜스등에 
 
 ## Youtube
 
-https://youtu.be/N5AcXsusSOc
+[![Video Label](https://img.youtube.com/vi/N5AcXsusSOc/0.jpg)](https://youtu.be/N5AcXsusSOc)
 
 ## Excel
 
